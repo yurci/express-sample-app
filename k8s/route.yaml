@@ -10,6 +10,6 @@ spec:
     termination: edge
   to:
     kind: Service
-    name: service
+    name: app-service
     weight: 100
   wildcardPolicy: None
