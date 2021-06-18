@@ -1,4 +1,4 @@
-# Express Sample Application (v2)
+# Express Sample Application (v3)
 
 If you are seeing this page as output in a Tekton Pipeline, then you are GOOD TO GO!
 
