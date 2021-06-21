@@ -5,6 +5,6 @@ resources:
   - service.yaml
   - route.yaml
 commonLabels:
-  app: kustomize-me-app-namespace
-  app.kubernetes.io/instance: kustomize-me-app-namespace
-  app.kubernetes.io/name: kustomize-me-app-name
+  app: kustomize-app-namespace
+  app.kubernetes.io/instance: kustomize-app-namespace
+  app.kubernetes.io/name: kustomize-app-name
